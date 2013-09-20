@@ -1,0 +1,8 @@
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/BoostParts/CMakeFiles/BoostParts.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/CMakeFiles/copy_testdata.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/gmock/CMakeFiles/gmock.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/gmock/CMakeFiles/gmock_main.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest_main.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/CMakeFiles/ycm_core.dir
+/Users/Gavin/Documents/Course/Stanford/StanfordCourse/github/ycm_build/ycm/tests/CMakeFiles/ycm_core_tests.dir
